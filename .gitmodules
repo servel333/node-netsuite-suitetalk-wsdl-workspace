@@ -1,3 +1,6 @@
 [submodule "node-netsuite-suitetalk-wsdl-v2016-2.0"]
 	path = node-netsuite-suitetalk-wsdl-v2016-2.0
 	url = git@github.com:servel333/node-netsuite-suitetalk-wsdl-v2016-2.0.git
+[submodule "node-netsuite-suitetalk-wsdl-schema"]
+	path = node-netsuite-suitetalk-wsdl-schema
+	url = git@github.com:servel333/node-netsuite-suitetalk-wsdl-schema.git
